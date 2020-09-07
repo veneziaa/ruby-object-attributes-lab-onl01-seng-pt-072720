@@ -12,3 +12,5 @@ class Person
   end 
 end 
 
+class Person
+    def job
