@@ -7,6 +7,7 @@ class Dog
     @name
   end 
    print dogs_name
+ end
 end
 
 
