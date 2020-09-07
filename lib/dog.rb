@@ -5,7 +5,9 @@ class Dog
   
   def name
     @name
+    print @name 
   end 
+  
 end
 
 
