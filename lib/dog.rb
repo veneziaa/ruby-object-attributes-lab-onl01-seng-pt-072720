@@ -6,8 +6,6 @@ class Dog
   def name
     @name
   end 
-   print dogs_name
- end
 end
 
 
